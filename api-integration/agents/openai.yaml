@@ -1,0 +1,4 @@
+interface:
+  display_name: "接口联调对接"
+  short_description: "对接接口、替换 mock 数据并沉淀后端待确认 TODO"
+  default_prompt: "使用 $api-integration 按接口文档对接页面，并列出需要和后端确认的问题。"
